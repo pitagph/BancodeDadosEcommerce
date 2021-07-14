@@ -14,3 +14,5 @@ Um banco de dados relacional many to many, com múltiplas tabelas se relacionand
 ![](https://github.com/pitagph/BancodeDadosEcommerce/blob/main/05.jpg?raw=true)
 
 ![](https://github.com/pitagph/BancodeDadosEcommerce/blob/main/06.jpg?raw=true)
+
+![](https://github.com/pitagph/BancodeDadosEcommerce/blob/main/07.jpg?raw=true)
