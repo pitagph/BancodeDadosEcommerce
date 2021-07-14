@@ -72,3 +72,7 @@ create table carrinho (
 	data_venda timestamp,
 	valor_total numeric(10,2) null
 );
+
+alter table carrinho ADD qntd_venda bigint null;
+
+update carrinho set qntd_venda = 1 where venda_id = 1;
