@@ -1,5 +1,5 @@
 # BancodeDadosEcommerce
-Um banco de dados relacional many to many, com múltiplas tabelas se relacionando.
+Um banco de dados relacional many to many, com múltiplas tabelas se relacionando. Com  Postgresql 12.0
 
 ![](https://github.com/pitagph/BancodeDadosEcommerce/blob/main/BancodeDadosRelacional.png?raw=true)
 
